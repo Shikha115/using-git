@@ -1,2 +1,2 @@
 # using-git
-use ogf git
+use of git
